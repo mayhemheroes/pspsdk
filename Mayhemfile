@@ -1,0 +1,5 @@
+project: rnshah9/pspsdk
+target: pspsdk
+
+cmds:
+  - cmd: /repo/tools/bin2c @@ out label
