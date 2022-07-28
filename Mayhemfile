@@ -2,4 +2,4 @@ project: pspsdk
 target: bin2c
 
 cmds:
-  - cmd: /repo/tools/bin2c @@ out label
+  - cmd: /bin2c @@ out label
